@@ -1,0 +1,137 @@
+[
+    [
+    {
+
+        "id": "1",
+        "sentido": "ida",
+        "tramo": "0",
+        "nombreAerolinea": "Nombre 1",
+        "fechaSalida": "31/12/2022",
+        "fechaLlegada": "31/12/2022",
+        "horaSalida": "02:20:00",   
+        "horaLlegada": "03:20:00",
+        "precio": "1111",
+        "aeropuerto": "EZE"
+     },
+     {
+
+        "id": "1",
+        "sentido": "ida",
+        "tramo": "1",
+        "nombreAerolinea": "Nombre 1B",
+        "fechaSalida": "31/12/2022",
+        "fechaLlegada": "31/12/2022",
+        "horaSalida": "05:20:00",   
+        "horaLlegada": "06:20:00",
+        "precio": "2221",
+        "aeropuerto": "MAD"
+     },
+     {
+
+        "id": "1",
+        "sentido": "ida",
+        "tramo": "2",
+        "nombreAerolinea": "Nombre 1C",
+        "fechaSalida": "31/12/2022",
+        "fechaLlegada": "31/12/2022",
+        "horaSalida": "08:20:00",   
+        "horaLlegada": "10:20:00",
+        "precio": "1111",
+        "aeropuerto": "BCN"
+     },
+     {
+
+        "id": "1",
+        "sentido": "vuelta",
+        "tramo": "0",
+        "nombreAerolinea": "Nombre 1D",
+        "fechaSalida": "05/01/2023",
+        "fechaLlegada": "05/01/2023",
+        "horaSalida": "08:20:00",   
+        "horaLlegada": "10:20:00",
+        "precio": "1111",
+        "aeropuerto": "EZE"
+
+     }
+    ],
+    [
+        {
+
+            "id": "2",
+            "sentido": "ida",
+            "tramo": "0",
+            "nombreAerolinea": "Nombre 2i",
+            "fechaSalida": "21/12/2022",
+            "fechaLlegada": "21/12/2022",
+            "horaSalida": "02:20:00",   
+            "horaLlegada": "03:20:00",
+            "precio": "1111"
+         },
+         {
+
+            "id": "2",
+            "sentido": "vuelta",
+            "tramo": "0",
+            "nombreAerolinea": "Nombre 2v",
+            "fechaSalida": "21/12/2022",
+            "fechaLlegada": "21/12/2022",
+            "horaSalida": "02:20:00",   
+            "horaLlegada": "03:20:00",
+            "precio": "1111"
+         }
+    ],
+    [
+        {
+
+            "id": "3",
+            "sentido": "ida",
+            "tramo": "0",
+            "nombreAerolinea": "Nombre 3i",
+            "fechaSalida": "27/12/2022",
+            "fechaLlegada": "27/12/2022",
+            "horaSalida": "02:20:00",   
+            "horaLlegada": "03:20:00",
+            "precio": "1111"
+         },
+         {
+
+            "id": "3",
+            "sentido": "vuelta",
+            "tramo": "0",
+            "nombreAerolinea": "Nombre 3v",
+            "fechaSalida": "29/12/2022",
+            "fechaLlegada": "29/12/2022",
+            "horaSalida": "02:20:00",   
+            "horaLlegada": "03:20:00",
+            "precio": "1111"
+         }
+    ],
+    [
+        {
+
+            "id": "4",
+            "sentido": "ida",
+            "tramo": "0",
+            "nombreAerolinea": "Nombre 4i",
+            "fechaSalida": "27/12/2022",
+            "fechaLlegada": "27/12/2022",
+            "horaSalida": "05:20:00",   
+            "horaLlegada": "06:20:00",
+            "precio": "1111"
+         },
+         {
+
+            "id": "4",
+            "sentido": "vuelta",
+            "tramo": "0",
+            "nombreAerolinea": "Nombre 4v",
+            "fechaSalida": "29/12/2022",
+            "fechaLlegada": "29/12/2022",
+            "horaSalida": "05:20:00",   
+            "horaLlegada": "06:20:00",
+            "precio": "1111"
+         }
+    ]
+
+
+]
